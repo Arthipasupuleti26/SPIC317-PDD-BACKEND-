@@ -1,3 +1,0 @@
-<?php
-define('OPENAI_API_KEY', 'sk-REPLACE_WITH_YOUR_KEY');
-?>
