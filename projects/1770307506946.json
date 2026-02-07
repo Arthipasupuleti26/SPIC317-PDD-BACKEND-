@@ -1,0 +1,9 @@
+{
+    "happiness": 70,
+    "excitement": 53,
+    "sadness": 21,
+    "voice_tuning": {
+        "speed": 1,
+        "pitch": 1
+    }
+}
