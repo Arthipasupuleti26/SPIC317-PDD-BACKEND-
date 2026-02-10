@@ -5,7 +5,7 @@ $host = "localhost";
 $port = 3307; // your MySQL port
 $user = "root";
 $pass = "";
-$dbname = "voice_converter";
+$dbname = "ai_dub";
 
 try {
     $pdo = new PDO(
@@ -25,3 +25,4 @@ try {
 
 // Make PDO globally available
 $GLOBALS['pdo'] = $pdo;
+
